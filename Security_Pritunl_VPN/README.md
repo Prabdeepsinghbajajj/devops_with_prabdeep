@@ -8,5 +8,3 @@ Private Subnet: Keeps the Pritunl server isolated from direct internet exposure.
 Network Load Balancer (NLB): Efficiently exposes Pritunl to the public while distributing traffic and ensuring high availability.
 Security: Combines the inherent security of AWS VPCs with Pritunl's robust VPN capabilities to protect sensitive data.
 
-
-![alt text](image.png)
